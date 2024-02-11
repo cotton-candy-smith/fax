@@ -29,7 +29,7 @@
 		"Uruguay": "Atlanta",
 		"Brazil": "Detroit",
 
-		"Greenland": "Olathe (Kansas)",
+		"Greenland": ["Olathe (Kansas)", "Meeker"],
 		"Iceland": "Columbus",
 
 		"Ireland": "New York",

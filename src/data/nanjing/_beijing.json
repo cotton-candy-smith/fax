@@ -29,7 +29,7 @@
 		"Uruguay": "Kochubei",
 		"Brazil": "Russkii Khutor",
 
-		"Greenland": "Akhtubinsk",
+		"Greenland": ["Akhtubinsk", "Bakhanay"],
 		"Iceland": "Narimanov",
 
 		"Ireland": "Voronezh",

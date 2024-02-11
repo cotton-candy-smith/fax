@@ -29,7 +29,7 @@
 		"Uruguay": "Haiphong",
 		"Brazil": "Hải Dương",
 
-		"Greenland": "Viet Tri",
+		"Greenland": ["Viet Tri", "tt. Đình Lập"],
 		"Iceland": "Vĩnh Yên",
 
 		"Ireland": "Hạ Long",
@@ -37,7 +37,7 @@
 		"Norway": "Lào Cai",
 		"Sweden": "Tuyên Quang",
 		"Finland": "Bắc Kạn",
-		"Portugal": "Cẩm Phả",
+		"Portugal": "HA LONG",
 		"Spain": "Sơn La",
 		"France": "Mường Lay",
 		"Belgium": "Lai Châu",

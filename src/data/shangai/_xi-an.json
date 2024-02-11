@@ -29,7 +29,7 @@
 		"Uruguay": "Le Havre",
 		"Brazil": "Bourges",
 
-		"Greenland": "Bordeaux",
+		"Greenland": ["Bordeaux", "Arandon-Passins"],
 		"Iceland": "Bayonne",
 
 		"Ireland": "Perpignan",

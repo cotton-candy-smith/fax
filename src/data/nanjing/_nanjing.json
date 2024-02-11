@@ -29,7 +29,7 @@
 		"Uruguay": "Marsala",
 		"Brazil": "Lecce",
 
-		"Greenland": "Messina",
+		"Greenland": ["Messina", "Tolmezzo"],
 		"Iceland": "Reggio Calabria",
 
 		"Ireland": "Agrigento",

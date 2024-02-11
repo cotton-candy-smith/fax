@@ -29,7 +29,7 @@
 		"Uruguay": "Tetiiv",
 		"Brazil": "P'yatyhory",
 
-		"Greenland": "Enerhodar",
+		"Greenland": ["Cherkasy", "Enerhodar"],
 		"Iceland": "Orativ",
 
 		"Ireland": "Stavyshche",

@@ -29,7 +29,7 @@
 		"Uruguay": "Al Sahla Al Shamaliya",
 		"Brazil": "Umm Al Zubar West",
 
-		"Greenland": "Ayn Sinan",
+		"Greenland": ["Ayn Sinan", "Umm Al Kilab"],
 		"Iceland": "Al-Jumayliyah",
 
 		"Ireland": "Aba Erbayyat",

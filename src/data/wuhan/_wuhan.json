@@ -29,7 +29,7 @@
 		"Uruguay": "Wolfsberg",
 		"Brazil": "Badgastein",
 
-		"Greenland": "Sankt Andrä am Zicksee",
+		"Greenland": ["Sankt Andrä am Zicksee", "Tweng"],
 		"Iceland": "Amstetten",
 
 		"Ireland": "Mayrhofen",

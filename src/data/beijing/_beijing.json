@@ -29,7 +29,7 @@
 		"Uruguay": "Richland",
 		"Brazil": "Kennewick",
 
-		"Greenland": "Las Vegas",
+		"Greenland": ["Washington", "Las Vegas"],
 		"Iceland": "Walla Walla",
 
 		"Ireland": "Hermiston",

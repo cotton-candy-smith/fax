@@ -29,7 +29,7 @@
 		"Uruguay": "Huarcapay",
 		"Brazil": "Izcuchaca",
 
-		"Greenland": "Estrella",
+		"Greenland": ["Estrella", "Huanca Sancos"],
 		"Iceland": "Mollepata",
 
 		"Ireland": "Cconoc",

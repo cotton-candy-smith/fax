@@ -29,7 +29,7 @@
 		"Uruguay": "Obihiro",
 		"Brazil": "Erimo",
 
-		"Greenland": "Fukuoka",
+		"Greenland": ["Fukuoka", "Hino"],
 		"Iceland": "Kagoshima",
 
 		"Ireland": "Miyazaki",

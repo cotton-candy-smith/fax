@@ -29,7 +29,7 @@
 		"Uruguay": "Bajura",
 		"Brazil": "Baranca",
 
-		"Greenland": "Coțușca",
+		"Greenland": ["Coțușca", "Blejoi"],
 		"Iceland": "Săveni",
 
 		"Ireland": "Ungureni",

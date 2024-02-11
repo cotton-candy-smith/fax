@@ -29,7 +29,7 @@
 		"Uruguay": "San Carlos de Río Negro",
 		"Brazil": "San Fernando de Atabapo",
 
-		"Greenland": "Los Pijiguaos",
+		"Greenland": ["Los Pijiguaos", "Caimare Chico"],
 		"Iceland": "El Pinate",
 
 		"Ireland": "Camaguan",
@@ -146,7 +146,7 @@
 		"Jordan": "Cardoncito",
 
 		"Saudi Arabia": "Puertecitos",
-		"Yemen": "Calle Ancha",
+		"Yemen": "Calle Ancha (Zulia)",
 		"United Arab Emirates": "Maracaibo",
 		"Bahrain": "Cabimas",
 		"Qatar": "Santa Rita",

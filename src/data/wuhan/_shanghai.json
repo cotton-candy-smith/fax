@@ -29,7 +29,7 @@
 		"Uruguay": "Welkom",
 		"Brazil": "Bultfontein",
 
-		"Greenland": "Hertzogville",
+		"Greenland": ["Hertzogville", "Olifantshoek"],
 		"Iceland": "Christiana",
 
 		"Ireland": "Jan Kempdorp",

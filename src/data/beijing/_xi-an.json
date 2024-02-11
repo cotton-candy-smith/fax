@@ -29,7 +29,7 @@
 		"Uruguay": "Wigoltingen",
 		"Brazil": "Kreuzlingen",
 
-		"Greenland": "Zermatt",
+		"Greenland": ["Sulgen", "Domat/Ems"],
 		"Iceland": "Mendrisio",
 
 		"Ireland": "Delémont",
@@ -141,7 +141,7 @@
 		"Libya": "Guttannen",
 		"Egypt": "Andermatt",
 		"Israel": "Airolo",
-		"Jordan": "Biasca",
+		"Jordan": "Faido",
 
 		"Saudi Arabia": "Bellinzona",
 		"Yemen": "Sant'Antonino",

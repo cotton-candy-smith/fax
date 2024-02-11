@@ -29,7 +29,7 @@
 		"Uruguay": "Semizbuga",
 		"Brazil": "Zhayma",
 
-		"Greenland": "Korneevka",
+		"Greenland": ["Korneevka", "Kulunda"],
 		"Iceland": "Pavlodar",
 
 		"Ireland": "Chernoyarka",

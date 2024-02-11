@@ -29,7 +29,7 @@
 		"Uruguay": "Buenos Aires",
 		"Brazil": "Finca Jobomó",
 
-		"Greenland": "Fray Bartolomé de las Casas",
+		"Greenland": ["Fray Bartolomé de las Casas", "Totonicapan"],
 		"Iceland": "Cobán",
 
 		"Ireland": "Nueva Generación Maya",

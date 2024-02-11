@@ -29,7 +29,7 @@
 		"Uruguay": "Ankang",
 		"Brazil": "Zhangjiajie",
 
-		"Greenland": "Lanzhou",
+		"Greenland": ["Lanzhou", "Shengzhou"],
 		"Iceland": "Guangyuan",
 
 		"Ireland": "Yaan",
@@ -122,7 +122,7 @@
 		"Nigeria": "Zhengzhou",
 		"Djibouti": "Lianyungang",
 		"Eritrea": "Jingdezhen",
-		"Sudan": "Zhoushan",
+		"Sudan": "Huangshan",
 		"Chad": "Fangchenggang",
 		"Niger": "Guilin",
 		"Benin": "Hanzhong",

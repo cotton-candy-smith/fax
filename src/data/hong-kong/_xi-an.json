@@ -29,7 +29,7 @@
 		"Uruguay": "Ikh-Uul",
 		"Brazil": "Tosontsengel",
 
-		"Greenland": "Ulaanbaatar",
+		"Greenland": ["Ulaanbaatar", "Urdgol"],
 		"Iceland": "Terelj",
 
 		"Ireland": "Achzhalchinyy khorsho",

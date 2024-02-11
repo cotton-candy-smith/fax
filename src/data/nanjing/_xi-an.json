@@ -29,7 +29,7 @@
 		"Uruguay": "Lutsk",
 		"Brazil": "Rivne",
 
-		"Greenland": "Kryvyi Rih",
+		"Greenland": ["Kryvyi Rih", "Dehtyarne"],
 		"Iceland": "Mykolaiv",
 
 		"Ireland": "Zaporizhzhia",

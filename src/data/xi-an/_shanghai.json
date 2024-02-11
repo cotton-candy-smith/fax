@@ -26,10 +26,10 @@
 		"Chile": "Estero Franco",
 		"Paraguay": "Nicolás Bravo",
 		"Argentina": "Los Mangos",
-		"Uruguay": "Caobas",
+		"Uruguay": "Caobas (Quintana Roo)",
 		"Brazil": "El Cedralito",
 
-		"Greenland": "Caobas",
+		"Greenland": ["El Gaucho", "Coba"],
 		"Iceland": "Morocoy",
 
 		"Ireland": "Central Flores",

@@ -29,7 +29,7 @@
 		"Uruguay": "Caldas Novas",
 		"Brazil": "Montes Claros",
 
-		"Greenland": "Volta Redonda",
+		"Greenland": ["Itaberaí", "Volta Redonda"],
 		"Iceland": "Franca",
 
 		"Ireland": "São José do Rio Preto",

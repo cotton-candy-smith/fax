@@ -29,7 +29,7 @@
 		"Uruguay": "Ak-Kuduk",
 		"Brazil": "Dzhilanaryk",
 
-		"Greenland": "Ak-Suu",
+		"Greenland": ["Ak-Suu", "Kyzyl-Bayrak"],
 		"Iceland": "Kara-Oi",
 
 		"Ireland": "Ak-Tal",
@@ -41,7 +41,7 @@
 		"Spain": "Dzholkara",
 		"France": "Bash-Kuugandy",
 		"Belgium": "Dzhangyaryk",
-		"Netherlands": "Kok": "Dzhar",
+		"Netherlands": "Kok Dzhar",
 		"Germany": "Kochkor",
 		"Switzerland": "Semiz Bel",
 		"Austria": "Chaek",

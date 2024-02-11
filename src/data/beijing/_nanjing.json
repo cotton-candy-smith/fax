@@ -29,7 +29,7 @@
 		"Uruguay": "Chelteham",
 		"Brazil": "Marlborough",
 
-		"Greenland": "Sutterton",
+		"Greenland": ["Chippenham", "Sutterton"],
 		"Iceland": "Sheffield",
 
 		"Ireland": "Preston",
