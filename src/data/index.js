@@ -9,6 +9,9 @@ const shortcuts = [{
 		wuhan: CONTRIES['BRAZIL'],
 		xi_an: CONTRIES['SWITZERLAND'],
 	},
+	chongqing: {
+		shanghai: COUNTRIES['BRAZIL'],
+	},
 	hong_kong: {
 		beijing: CONTRIES['CANADA'],
 		hong_kong: CONTRIES['PERU'],
@@ -30,7 +33,7 @@ const shortcuts = [{
 		hong_kong: CONTRIES['IRELAND'],
 		nanjing: CONTRIES['VENEZUELA'],
 		shanghai: CONTRIES['INDIA'],
-		wuhan: CONTRIES['CHINA'],
+		wuhan: CONTRIES['⁄1'],
 		xi_an: CONTRIES['FRANCE'],
 	},
 	wuhan: {
