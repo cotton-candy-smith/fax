@@ -1,5 +1,7 @@
 import { CONTRIES, COUNTRY_KEYS } from 'enum';
 
+const schema = 'Beijing';
+
 const shortcuts = [{
 	beijing: {
 		beijing: CONTRIES['AMERICA'],
@@ -10,7 +12,12 @@ const shortcuts = [{
 		xi_an: CONTRIES['SWITZERLAND'],
 	},
 	chongqing: {
-		shanghai: COUNTRIES['BRAZIL'],
+		beijing: CONTRIES['AMERICA'],
+		hong_kong: CONTRIES['GERMANY'],
+		nanjing: CONTRIES['UK'],
+		shanghai: CONTRIES['UKRAINE'],
+		wuhan: CONTRIES['BRAZIL'],
+		xi_an: CONTRIES['SWITZERLAND'],
 	},
 	hong_kong: {
 		beijing: CONTRIES['CANADA'],
@@ -33,7 +40,7 @@ const shortcuts = [{
 		hong_kong: CONTRIES['IRELAND'],
 		nanjing: CONTRIES['VENEZUELA'],
 		shanghai: CONTRIES['INDIA'],
-		wuhan: CONTRIES['⁄1'],
+		wuhan: CONTRIES['CHINA'],
 		xi_an: CONTRIES['FRANCE'],
 	},
 	wuhan: {

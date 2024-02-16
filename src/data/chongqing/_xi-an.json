@@ -1,0 +1,67 @@
+{
+	"country-code": "Switzerland",
+	"data": {
+		"Honduras": "Lucerne",
+		"Nicaragua": "Emmem",
+		"Costa Rica": "Krienz",
+		"Panama": "Horw",
+
+		"Alaska": "Ebikon",
+		"Cuba": "Dierikon",
+		"Puerto Rico": "Buchrain",
+		"Hawaii": "Root",
+
+		"Colombia": "Malters",
+		"Venezuela": "Wolhusen",
+		"Argentina": "Willisau",
+		"Uruguay": "Dagmersellen",
+		"Brazil": "Sursee",
+
+		"Greenland": ["Zürich", "Bern"],
+		"Iceland": "Yverdon-les-Bains",
+
+		"Ireland": "Ins",
+		"United Kingdom": "Biel/Bienne",
+		"Norway": "Solothurn",
+		"Sweden": "Grenchen",
+		"Finland": "Langenthal",
+		"Romania": "Murgenthal",
+		"Ukraine": "Oftringen",
+		"Moldova": "Zofingen",
+		"Belarus": "Reiden",
+		"Lithuania": "Huttwill",
+		"Latvia": "Wolhusen",
+		"Estonia": "Emmen",
+		"Bulgaria": "Krienz",
+		"Greece": "Horw",
+
+		"Turkmenistan": "Hergiswil",
+		"Uzbekistan": "Stansstad",
+		"Kazakhstan": "Stans",
+		"Kyrgyzstan": "Dallenwil",
+		"Tajikistan": "Wolfenschiessen",
+		"Afghanistan": "Engelberg",
+
+		"Russia": "Flüelen",
+		"China": "Altdorf",
+		"Mongolia": "Schattdorf",
+		"North Korea": "Bürglen",
+		"South Korea": "Spiringen",
+		"Japan": "Unterschächen",
+		"Taiwan": "Glarus Süd",
+		"Philippines": "Glarus",
+		"Indonesia": "Glarus Nord",
+		"Papua New Guinea": "Schänis",
+		"Australia": "Kaltbrunn",
+		"New Zealand": "Gommiswald",
+
+		"Saudi Arabia": "Baden",
+		"Yemen": "Lenzburg",
+		"Oman": "Aarou",
+		"United Arab Emirates": "Niedergösgen",
+		"Bahrain": "Däniken",
+		"Qatar": "Trimbach",
+		"Kuwait": "Hägendorf",
+	}
+}
+

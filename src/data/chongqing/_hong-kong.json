@@ -1,0 +1,67 @@
+{
+	"country-code": "France",
+	"data": {
+		"Honduras": "Bourges",
+		"Nicaragua": "Vierzon",
+		"Costa Rica": "Saint-Aignan",
+		"Panama": "Tours",
+
+		"Alaska": "La Charité-sur-Loire",
+		"Cuba": "Varzy",
+		"Puerto Rico": "Clamecy",
+		"Hawaii": "Vézelai",
+
+		"Colombia": "Avallon",
+		"Venezuela": "Rouvray",
+		"Argentina": "Magny",
+		"Uruguay": "La Chapelle-Saint-Ursin",
+		"Brazil": "Marmagne",
+
+		"Greenland": ["Mehun-sur-Yèvre", "Langeais"],
+		"Iceland": "Saint-Éloy-de-Gy",
+
+		"Ireland": "Fussy",
+		"United Kingdom": "Vignoux-sous-les-Aix",
+		"Norway": "Pigny",
+		"Sweden": "Sainte-Solange",
+		"Finland": "Brécy",
+		"Romania": "Villabon",
+		"Ukraine": "Baugy",
+		"Moldova": "Villequiers",
+		"Belarus": "Mornay-Berry",
+		"Lithuania": "Menetou-Couture",
+		"Latvia": "Jouet-sur-l'Aubois",
+		"Estonia": "Jussy-le-Chaudrier",
+		"Bulgaria": "Herry",
+		"Greece": "Feux",
+
+		"Turkmenistan": "Saint-Amand-Montrond",
+		"Uzbekistan": "Saint-Pierre-les-Étieux",
+		"Kazakhstan": "Meillant",
+		"Kyrgyzstan": "Bruère-Allichamps",
+		"Tajikistan": "Châteauneuf-sur-Cher",
+		"Afghanistan": "Corquoy",
+
+		"Russia": "Saint-Florent-sur-Cher",
+		"China": "Chârost",
+		"Mongolia": "Issoudun",
+		"North Korea": "Saint-Aoustrille",
+		"South Korea": "Saint-Valentin",
+		"Japan": "Vatan",
+		"Taiwan": "Déols",
+		"Philippines": "Villedieu-sur-Indre",
+		"Indonesia": "Châtillon-sur-Indre",
+		"Papua New Guinea": "Le Tranger",
+		"Australia": "Saint-Cyran-du-Jambot",
+		"New Zealand": "Fléré-la-Rivière",
+
+		"Saudi Arabia": "Tours",
+		"Yemen": "Saint-Avertin",
+		"Oman": "Chambray-lès-Tours",
+		"United Arab Emirates": "Joué-lès-Tours",
+		"Bahrain": "Ballan-Miré",
+		"Qatar": "Savonnières",
+		"Kuwait": "Villandry",
+	}
+}
+

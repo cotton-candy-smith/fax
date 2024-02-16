@@ -1,0 +1,67 @@
+{
+	"country-code": "United Kingdom",
+	"data": {
+		"Honduras": "Birmingham",
+		"Nicaragua": "Wolverhampton",
+		"Costa Rica": "Coventry",
+		"Panama": "Alcester",
+
+		"Alaska": "Worcester",
+		"Cuba": "Leominster",
+		"Puerto Rico": "Bromyard",
+		"Hawaii": "Wychbold",
+
+		"Colombia": "Stoke-on-Trent",
+		"Venezuela": "Nottingham",
+		"Argentina": "Shrewsbury",
+		"Uruguay": "Leicester",
+		"Brazil": "Northampton",
+
+		"Greenland": ["Wellingborough", "Stirling"],
+		"Iceland": "Oxford",
+
+		"Ireland": "Swindon",
+		"United Kingdom": "Bristol",
+		"Norway": "Exeter",
+		"Sweden": "Bristol",
+		"Finland": "Newport",
+		"Romania": "Swansea",
+		"Ukraine": "Tenby",
+		"Moldova": "Milford Haven",
+		"Belarus": "Cardigan",
+		"Lithuania": "Aberystwyth",
+		"Latvia": "Pwlheli",
+		"Estonia": "Liverpool",
+		"Bulgaria": "Blackpool",
+		"Greece": "Whitehaven",
+
+		"Turkmenistan": "Newcastle upon Tyne",
+		"Uzbekistan": "Woolsington",
+		"Kazakhstan": "Ponteland",
+		"Kyrgyzstan": "Belsay",
+		"Tajikistan": "Kirkhale",
+		"Afghanistan": "Otterburn",
+
+		"Russia": "Byrness Village",
+		"China": "Jedburgh",
+		"Mongolia": "Southdean",
+		"North Korea": "Cavers",
+		"South Korea": "Langholm",
+		"Japan": "Carlisle",
+		"Taiwan": "Linstock",
+		"Philippines": "Rockcliffe",
+		"Indonesia": "Gretna Green",
+		"Papua New Guinea": "Ecclefechan",
+		"Australia": "Lockerbie",
+		"New Zealand": "Johnstonebridge",
+
+		"Saudi Arabia": "Beattock",
+		"Yemen": "Elvanfoot",
+		"Oman": "Crawford",
+		"United Arab Emirates": "Abington",
+		"Bahrain": "Roberton",
+		"Qatar": "Lesmahagow",
+		"Kuwait": "Larkhall",
+	}
+}
+

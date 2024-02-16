@@ -1,6 +1,6 @@
 {
   "name": "fax",
-  "version": "0.0.3",
+  "version": "0.0.3-v1",
   "description": "a wrapper for chinese characters set on utf-8 charset",
   "main": "index.js",
   "scripts": {

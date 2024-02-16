@@ -1,0 +1,67 @@
+{
+	"country-code": "United States of América",
+	"data": {
+		"Honduras": "Holton",
+		"Nicaragua": "Portland",
+		"Costa Rica": "Bangor",
+		"Panama": "Ellsworth",
+
+		"Alaska": "Bar Habour",
+		"Cuba": "Waterville",
+		"Puerto Rico": "Augusta",
+		"Hawaii": "Lewiston",
+
+		"Colombia": "Burlington",
+		"Venezuela": "Manchester",
+		"Argentina": "Hanover",
+		"Uruguay": "Montpelier",
+		"Brazil": "St Johnsbury",
+
+		"Greenland": ["Hanover", "New Haven"],
+		"Iceland": "Lebanon",
+
+		"Ireland": "Boston",
+		"United Kingdom": "Worcester",
+		"Norway": "Springfield",
+		"Sweden": "Greenfield",
+		"Finland": "Athol",
+		"Romania": "North Adams",
+		"Ukraine": "Northampton",
+		"Moldova": "Amherst",
+		"Belarus": "Holyoke",
+		"Lithuania": "Westfield",
+		"Latvia": "Chicopee",
+		"Estonia": "Sturbridge",
+		"Bulgaria": "Auburn",
+		"Greece": "Provincetown",
+
+		"Turkmenistan": "Providence",
+		"Uzbekistan": "Woonsocket",
+		"Kazakhstan": "Foster",
+		"Kyrgyzstan": "West Warwick",
+		"Tajikistan": "Coventry",
+		"Afghanistan": "Warren",
+
+		"Russia": "Bristol",
+		"China": "Pawtucket",
+		"Mongolia": "Lincoln",
+		"North Korea": "Smithfield",
+		"South Korea": "North Smithfield",
+		"Japan": "Burrillville",
+		"Taiwan": "Hartford",
+		"Philippines": "Avon",
+		"Indonesia": "Farmington",
+		"Papua New Guinea": "Newington",
+		"Australia": "Glastonbury",
+		"New Zealand": "Manchester",
+
+		"Saudi Arabia": "Windsor",
+		"Yemen": "South Windsor",
+		"Oman": "Manchester",
+		"United Arab Emirates": "Addison",
+		"Bahrain": "Rocky Hill",
+		"Qatar": "Marlborough",
+		"Kuwait": "Norwich",
+	}
+}
+
