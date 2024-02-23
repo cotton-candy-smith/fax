@@ -1,4 +1,4 @@
-import { CONTRIES, COUNTRY_KEYS } from 'enum';
+const { CONTRIES, COUNTRY_KEYS } = require('./enum');
 
 const schema = 'Beijing';
 

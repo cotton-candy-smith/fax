@@ -1,0 +1,35 @@
+{
+  "country-code": "United States of América",
+  "data": {
+    "Guatemala": "Fairbanks",
+    "Belize": "Talkeetna",
+    "El Salvador": "Anchorage",
+    "Honduras": "Kivalina",
+    "Nicaragua": "Noatak",
+    
+    "Croatia": "Kotzebue",
+    "Bosnia": "Selawik",
+    "Montenegro": "Nome",
+    "Albania": "Koyuk",
+    "Serbia": "Alakanuk",
+    "Kosovo": "St. Marys",
+    "North Macedônia": "Bethel",
+    "Romania": "Togiak",
+    "Ukraine": "Dillingham",
+    "Moldova": "Unimak Island",
+    "Belarus": "False Pass",
+    "Lithuania": "Cold Bay",
+    "Latvia": "King Cove",
+    "Estonia": "Nelson Lagoon",
+    "Bulgaria": "Sand Point",
+    "Greece": "Unga",
+
+    "Saudi Arabia": "Ivanof Bay",
+    "Yemen": "Perryville",
+    "Oman": "Chignik Lake",
+    "United Arab Emirates": "Chignik",
+    "Bahrain": "Port Heiden",
+    "Qatar": "Pilot Point",
+    "Kuwait": "Ugashik",
+  }
+}

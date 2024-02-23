@@ -1,0 +1,25 @@
+// 香港 / 上海
+{
+  "country-code": "Canada",
+  "data": {
+    "Guatemala": "Herschel",
+    "El Salvador": "Old Crow",
+    "Honduras": "Rampart House",
+    "Nicaragua": "Forty Mile",
+    
+    "Argentina": "Beaver Creek",
+    "Uruguay": "Koidern",
+    "Brazil": "Quill Creek",
+
+    "Ireland": "Whitefish Station",
+    "United Kingdom": "Lapierre House",
+    "Norway": "Whitestone Village",
+    "Sweden": "Fishing Station",
+    "Finland": "Lansing",
+    "Portugal": "Armstrong",
+    "Italy": "Faro",
+    "Czechia": "Ross River",
+    "Poland": "Pelly Lakes",
+    "Slovakia": "Tungsten",
+  }
+}

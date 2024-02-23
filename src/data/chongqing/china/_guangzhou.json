@@ -1,0 +1,27 @@
+{
+  "country-code": "China",
+  "data": {
+    "Colombia": "Wuhan",
+    "Venezuela": "Chongqing",
+    "Guiana": "Guangzhou",
+    
+    "Greenland": ["Beijing", "Kunming"],
+    "Iceland": "Shanghai",
+
+    "Ireland": "Tianjin",
+    "United Kingdom": "Jinan",
+    "Norway": "Qingdao",
+    "Sweden": "Yinchuan",
+    "Finland": "Lanzhou",
+    
+    "South Africa": "Yushu",
+    "Botswana": "Chamdo",
+    "Namibia": "Xi'An",
+    "Zimbabwe": "Yuncheng",
+    "Mozambique": "Baoji",
+    "Zambia": "Lanzhou",
+    "Angola": "Dingxi",
+    "Tanzania": "Guyuan",
+    "Democratic Republic of the Congo": "Pingliang"
+  }
+}

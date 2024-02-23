@@ -1,0 +1,25 @@
+{
+  "country-code": "Brazil",
+  "data": {
+    "Peru": "Rio Branco",
+    "Bolivia": "Maringá",
+    "Chile": "Ponta Grossa",
+    "Uruguay": "Porto Alegre",
+
+    "Ireland": "Rio de Janeiro",
+    "United Kingdom": "Vitória",
+    "Norway": "Belo Horizonte",
+    "Sweden": "Goiânia",
+
+    "Russia": "Salvador",
+    "China": "Recife",
+    "Mongolia": "Aracaju",
+    "North Korea": "João Pessoa",
+    "South Korea": "Natal",
+    "Japan": "São Luis",
+    "Taiwan": "Belém",
+    "Philippines": "Macapá"
+    "Indonesia": "Santarém",
+    "Papua New Guinea": "Manaus",
+  }
+}

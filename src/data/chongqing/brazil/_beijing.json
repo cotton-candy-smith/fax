@@ -1,0 +1,17 @@
+{
+  "country-code": "Brazil",
+  "data": {
+    "Canada": "Brasilia",
+    "Guatemala": "Goiânia",
+    "Belize": "São Paulo",
+    "El Salvador": "Rio de Janeiro",
+    "Honduras": "Salvador",
+    "Nicaragua": "Porto Seguro",
+    "Costa Rica": "Teixeira de Freitas",
+
+    "Alaska": "Teófilo Otoni",
+    "Cuba": "Guarapari",
+    "Puerto Rico": "Vitória",
+    "Hawaii": "Governador Valadares",
+  }
+}

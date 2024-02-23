@@ -1,0 +1,22 @@
+{
+  "country-code": "Brazil",
+  "data": {
+    "Greenland": ["Manaus", "Porto Alegre"],
+    "Iceland": "Brasilia",
+
+    "Ireland": "São Paulo",
+    "Czechia": "Belo Horizonte",
+    "Poland": "Salvador",
+    "Slovakia": "Natal",
+    "Hungary": "João Pessoa",
+    "Croatia": "Cuiabá",
+    "Bosnia": "Campo Grande",
+    "Montenegro": "Curitiba",
+    "Albania": "Londrina",
+    "Serbia": "Maringá",
+    "Kosovo": "Ponta Grossa",
+    "Bulgaria": "Blumenal",
+    "Greece": "Florianópolis",
+  }
+}
+

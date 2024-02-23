@@ -1,0 +1,27 @@
+{
+  "country-code": "United States of América",
+  "data": {
+    "Colombia": "Houston",
+    "Venezuela": "Austin",
+    "Argentina": "San Antonio",
+    "Uruguay": "Fort Worth",
+    "Brazil": "Dallas",
+
+    "Greenland": ["Waco", "Muskogee"],
+    "Iceland": "Tyler",
+
+    "Ireland": "Odessa",
+    "United Kingdom": "Midland",
+    "Germany": "Big Spring",
+    "Switzerland": "Abilene",
+    "Austria": "Lubbock",
+    "Italy": "Amarillo",
+    "Czechia": "Albuquerque",
+    "Poland": "Oklahoma City",
+    "Slovakia": "Norman",
+    "Hungary": "Tulsa",
+    "Croatia": "Elkcity",
+    "Bosnia": "Lawton",
+    "Montenegro": "Claremore",
+  }
+}
