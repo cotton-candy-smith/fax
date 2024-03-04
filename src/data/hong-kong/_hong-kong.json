@@ -12,7 +12,7 @@
 		"Costa Rica": "Paccarectambo",
 		"Panama": "Yaurisque",
 
-		"Alaska": "Cusco",
+		"Alaska": "Yuncaypata",
 		"Cuba": "Pucyura",
 		"Puerto Rico": "Izcuchaca",
 		"Hawaii": "Huasao",
@@ -29,7 +29,7 @@
 		"Uruguay": "Huancavelica",
 		"Brazil": "Chuñuranra",
 
-		"Greenland": "Plazapata",
+		"Greenland": ["Plazapata", "Vitis"],
 		"Iceland": "Astobamba",
 
 		"Ireland": "Cachimayo",
